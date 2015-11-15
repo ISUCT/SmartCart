@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><layout title="" view="view">
+  <AnchorsPane background="#ffffff" cursor="0" name="view" prefHeight="300px" prefWidth="621px"/>
+  <ToggleButton cursor="0" name="toggleButton" parent="view" prefHeight="80px" prefWidth="260px" text="toggleButton">
+    <AnchorsPaneConstraints height="80px" left="300px" top="30px" width="260px"/>
+  </ToggleButton>
+  <Button cursor="0" name="btnConnect" parent="view" prefHeight="20px" prefWidth="100px" text="Open">
+    <AnchorsPaneConstraints height="20px" left="20px" top="20px" width="100px"/>
+  </Button>
+  <Button cursor="0" name="btnClose" parent="view" prefHeight="20px" prefWidth="100px" text="Close">
+    <AnchorsPaneConstraints height="20px" left="20px" top="50px" width="100px"/>
+  </Button>
+  <Button cursor="0" name="btnMessage" parent="view" prefHeight="20px" prefWidth="100px" text="Message">
+    <AnchorsPaneConstraints height="20px" left="20px" top="80px" width="100px"/>
+  </Button>
+</layout>
